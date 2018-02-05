@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Preset meats as pre packaging -->
+<Presets>
+  <Beef>
+    <Preset>
+      <Name></Name>
+      <Weight></Weight>
+      <Chilled>
+        <Time>
+          <Hour></Hour>
+          <minutes></minutes>
+        </Time>
+        <Temperature>
+          <Celsius></Celsius>
+          <Fahrenheit></Fahrenheit>
+          <Fan></Fan>
+          <Gas></Gas>
+        </Temperature>
+      </Chilled>
+      <Frozen>
+        <Time>
+          <Hour></Hour>
+          <minutes></minutes>
+        </Time>
+        <Temperature>
+          <Celsius></Celsius>
+          <Fahrenheit></Fahrenheit>
+          <Fan></Fan>
+          <Gas></Gas>
+        </Temperature>
+      </Frozen>
+    </Preset>
+  </Beef>
+  <Chicken>
+
+  </Chicken>
+  <Duck>
+
+  </Duck>
+  <Goose>
+
+  </Goose>
+  <Lamb>
+
+  </Lamb>
+  <Pork>
+
+  </Pork>
+  <Turkey>
+    <Preset>
+      <Name>ASDA Ready To Cook Turkey Breast Joint</Name>
+      <Weight>800g</Weight>
+      <Chilled>
+        <Time>
+          <Hour>1</Hour>
+          <minutes>30</minutes>
+        </Time>
+        <Temperature>
+          <Celsius>200</Celsius>
+          <Fahrenheit>400</Fahrenheit>
+          <Fan>180</Fan>
+          <Gas>6</Gas>
+        </Temperature>
+        <Notes>Remove film lid for final 15 minutes</Notes>
+      </Chilled>
+      <Frozen>
+        <Time>
+          <Hour>2</Hour>
+          <minutes>0</minutes>
+        </Time>
+        <Temperature>
+          <Celsius>200</Celsius>
+          <Fahrenheit>400</Fahrenheit>
+          <Fan>180</Fan>
+          <Gas>6</Gas>
+        </Temperature>
+        <Notes>Remove film lid for final 30 minutes</Notes>
+      </Frozen>
+    </Preset>
+  </Turkey>
+</Presets>

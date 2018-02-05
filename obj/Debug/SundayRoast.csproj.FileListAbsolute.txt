@@ -1,0 +1,12 @@
+D:\Programming\SundayRoast\bin\Debug\Sunday Roast.exe.config
+D:\Programming\SundayRoast\bin\Debug\Sunday Roast.exe
+D:\Programming\SundayRoast\bin\Debug\Sunday Roast.pdb
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.Controls.Clock.resources
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.Controls.NumberScroll.resources
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.FrmMain.resources
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.Preferences.resources
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.Properties.Resources.resources
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.csproj.GenerateResource.Cache
+D:\Programming\SundayRoast\obj\Debug\Sunday Roast.exe
+D:\Programming\SundayRoast\obj\Debug\Sunday Roast.pdb
+D:\Programming\SundayRoast\obj\Debug\SundayRoast.csprojResolveAssemblyReference.cache
